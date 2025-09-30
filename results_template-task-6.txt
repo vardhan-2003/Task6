@@ -1,0 +1,53 @@
+Label: weak1
+Password (masked): p******d123
+Tool used: passwordmeter.com
+Score/Result: 20/100 (Weak)
+Feedback: Common word + numbers; short length and predictable pattern.
+
+Label: random_hex
+Password (masked): 9f3a************
+Tool used: zxcvbn (offline)
+Score: 80/100 (Strong)
+Feedback: Long random hex string; hard to guess.
+
+Label: kumar
+Password (masked): k****
+Tool used: passwordmeter.com
+Score/Result: 18/100 (Weak)
+Feedback: Common Indian surname; too short, no symbols or numbers.
+
+Label: ragesh
+Password (masked): r*****
+Tool used: passwordmeter.com
+Score/Result: 20/100 (Weak)
+Feedback: Short and dictionary-based; needs length and variety.
+
+Label: @asdw
+Password (masked): @a***
+Tool used: passwordmeter.com
+Score/Result: 30/100 (Medium)
+Feedback: Slightly better due to symbol, but still short and partly dictionary.
+
+Label: dbh%4cjs237v
+Password (masked): dbh%4********
+Tool used: passwordmeter.com
+Score/Result: 75/100 (Strong)
+Feedback: Good mix of letters, numbers, and symbol; adequate length.
+
+Label: #jvkdv
+Password (masked): #j***
+Tool used: passwordmeter.com
+Score/Result: 45/100 (Medium)
+Feedback: Symbol helps, but still short and mostly letters.
+
+Label: &fsxgfd223
+Password (masked): &fsx****
+Tool used: passwordmeter.com
+Score/Result: 65/100 (Strong)
+Feedback: Contains symbol and numbers; moderate length; good overall.
+
+Label: EWRL$$%543
+Password (masked): EWRL$$%***
+Tool used: passwordmeter.com
+Score/Result: 85/100 (Very Strong)
+Feedback: Good length, mix of upper/lowercase, numbers, and symbols.
